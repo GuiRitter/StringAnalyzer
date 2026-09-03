@@ -80916,7 +80916,7 @@ A.lZ(A.a([new A.bp(A.aU0(a),t.cw).bD(new A.ac0(s),t.kS),new A.bp(A.aEs(a),t.kL).
 return a}}
 A.ac_.prototype={
 $2(a,b){var s=this.a
-return new A.oQ($.aI2(),$.aIc(),B.a6W,"",s.gVL(),this.b,this.c,b,B.XP,s.galc(),B.a_2,null)},
+return new A.oQ($.aI2(),$.aIc(),B.a6W,"string_analyzer",s.gVL(),this.b,this.c,b,B.XP,s.galc(),B.a_2,null)},
 $S:483}
 A.ac0.prototype={
 $1(a){return this.a.b=a},
@@ -80939,7 +80939,7 @@ a.a.n(0,"redux state in shared preferences",s)
 return $.ax7().mF("String","flutter.redux state in shared preferences",s)},
 $S:487}
 A.xR.prototype={
-S(a){var s=null,r=A.l1("",s,s,s,s,s,s),q=t.wr,p=t.W
+S(a){var s=null,r=A.l1("string_analyzer",s,s,s,s,s,s),q=t.wr,p=t.W
 return A.aB1(new A.w0(r,new A.Xd(s,s,1/0,56),s),A.lI(A.aub(A.a([A.auG(A.aBA(this.c,A.av1(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.avK(new A.a78(),s,q),s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.oq,s)),A.aNk(A.a([A.auG(new A.Kj(this.gVj(),s,s,s,s,s,s,!1,s,!0,s,A.avK(new A.a79(),s,q),s))],p),B.cX,B.qB),A.auG(A.aBA(this.d,A.av1(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.avK(new A.a7a(),s,q),s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.oq,s))],p),B.cX,B.HO,B.qB),s,s))},
 adZ(a){var s,r,q=new A.hZ(a)
 if(a.length===1&&a.charCodeAt(0)<256){s="\xbb"
@@ -87193,7 +87193,7 @@ B.vz=new A.oL(1,"titleHeight")
 B.Wr=new A.oL(2,"top")
 B.vA=new A.oL(3,"center")
 B.Ws=new A.oL(4,"bottom")
-B.aec=new A.tV("",null,null,null,null,null,null,null,null)
+B.aec=new A.tV("string_analyzer",null,null,null,null,null,null,null,null)
 B.Wt=new A.LB(null)
 B.vD=A.a(s(["1. \u0161tvr\u0165rok","2. \u0161tvr\u0165rok","3. \u0161tvr\u0165rok","4. \u0161tvr\u0165rok"]),t.s)
 B.vC=A.a(s(["1\u129b\u12cd \u1229\u1265","2\u129b\u12cd \u1229\u1265","3\u129b\u12cd \u1229\u1265","4\u129b\u12cd \u1229\u1265"]),t.s)
