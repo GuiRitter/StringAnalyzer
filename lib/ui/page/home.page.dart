@@ -12,12 +12,10 @@ import 'package:flutter/material.dart'
         Row,
         Scaffold,
         StatelessWidget,
-        Text,
         TextEditingController,
         TextField,
         TextInputType,
         Widget;
-import 'package:flutter_guiritter/common/_import.dart' show appName;
 import 'package:flutter_guiritter/util/_import.dart' show logger;
 import 'package:string_analyzer/ui/widget/_import.dart' show getTextL;
 
@@ -40,9 +38,7 @@ class HomePage extends StatelessWidget {
   ) =>
       Scaffold(
         appBar: AppBar(
-          title: Text(
-            appName,
-          ),
+          title: getTextL((l) => l!.title),
         ),
         body: Center(
           child: Column(
